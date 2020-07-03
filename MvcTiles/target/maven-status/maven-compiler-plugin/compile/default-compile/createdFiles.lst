@@ -1,0 +1,4 @@
+com\tiles\config\AppInitializer.class
+com\tiles\controller\HomeController.class
+com\tiles\config\AppConfig.class
+com\tiles\model\Contact.class
